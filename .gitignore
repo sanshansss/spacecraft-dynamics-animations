@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+media/
+qa/
+qa*/
+local/
+src/verify_*.py
+*.pptx
+*.log
+.DS_Store
+Thumbs.db
