@@ -49,8 +49,8 @@
 
 ## 作者
 
-**Yue Zixin**
+**Jessie**
 
-- 个人主页：<https://sanshansss.github.io/astro-theme-retypeset/>
+- 博客：<https://sanshansss.github.io/blog/>
 - GitHub：<https://github.com/sanshansss>
 - 项目仓库：<https://github.com/sanshansss/spacecraft-dynamics-animations>
